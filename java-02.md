@@ -12,7 +12,7 @@ Studentët që udhëtojnë për në AAB nuk e dinë lehtë kush niset në orën 
 ## 3. Tri ekranet
 1. Lista e udhëtimeve: çdo udhëtim shfaq nisjen, destinacionin, orën dhe vendet e lira. Udhëtari shtyp “Shiko” për të hapur një udhëtim.
 2. Detajet e udhëtimit: shfaq edhe vendtakimin dhe shoferin. Këtu ndodhet butoni “Kërko një vend”. E vendosa butonin pas detajeve që udhëtari të mos bëjë kërkesë të nxituar; kostoja është një hap shtesë.
-3. Kërkesa në pritje: shfaq statusin “Në pritje të shoferit”. Kur shoferi përgjigjet, statusi bëhet “E konfirmuar” ose “E refuzuar”.
+3. Kërkesa në pritje: shfaq statusin “Në pritje të shoferit”. Kur shoferi përgjigjet, statusi bëhet “E konfirmuar” ose “E refuzuar”..
 
 ## 4. MVP — vetëm tri veçori
 1. Shoferi publikon një udhëtim me orën, vendtakimin dhe vendet e lira.

@@ -29,8 +29,6 @@ Mesazhi i refuzimit: Sistemi shfaqi gabim se veprimi nuk është i lejuar ose se
 
 Verifikimi në Neon: Kontrollova në Neon SQL Editor dhe konfirmova se udhëtimi me ID 1 mbeti i paprekur në orën e tij origjinale 08:00, duke dëshmuar se kontrolli i pronësisë dhe autorizimit funksionon siç duhet.
 
-Ku gjendet puna
-Repository: https://github.com/Bledioni/rideshare-mobile.git
 
 Skedarët e rinj: Skedarët e shtuar për autentifikimin, middleware-ët e autorizimit dhe logjikën e paneleve ndodhen në strukturën e projektit jashtë dosjes aplikacioni/.
 

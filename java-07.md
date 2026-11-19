@@ -1,8 +1,7 @@
 # RideShare · Java 7
 
 ## Rasti im
-GitHub: bledioni
-Kodi: P7-018
+
 Skenari i zgjedhur (numri dhe titulli, nga Rastet 1–5): Rasti 2 · Pa vende
 ID i udhëtimit në projektin tim: 3 (Lipjan → AAB, 07:45, 0 vende)
 Të dhënat fiktive të rastit: Prizren → AAB, 08:00, 1 vende. Ora për provën e re: 08:05.
@@ -18,9 +17,7 @@ Në listë pres të shoh udhëtimin ID 3 (Lipjan → AAB, 07:45) dhe të kuptoj 
 Skedari: aplikacioni/src/components/KartaUdhetimi.tsx
 Ky komponent vizaton kartën e një udhëtimi në listën e faqes kryesore (nisja, destinacioni, ora, vendet dhe lidhja te detajet). Shtova një kusht: kur `udhetim.vende > 0` shfaqet "Vende të lira: N", ndërsa kur vendet janë 0 shfaqet "Nuk ka vende të lira". Kështu lista nuk lë përshtypjen se ka vend të lirë, dhe teksti përputhet me atë që shfaqet te detajet. Lidhja "Shiko detajet" mbetet, sepse detajet janë ende të dobishme. Nuk ndryshova të dhënat në Neon dhe as kontrollet në server.
 
-## Versionet
-Para: https://github.com/Bledioni/rideshare-mobile/commit/f0aba03854f47ef7b7d6b9f6706aa25ede180b6e
-Pas: https://github.com/Bledioni/rideshare-mobile/commit/69e77326b919074f8fa1c2ef03f353e7b548c3f2
+
 
 ## Provat që bëra
 ### Prova 1
